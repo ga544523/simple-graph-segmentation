@@ -13,8 +13,6 @@ minsize=2000 k=10 sigma=1
 
 
 
-
-minsize=2000 k=10 sigma=1
 ![image](https://github.com/ga544523/-graph-segmentation-/blob/master/imgsegPNG.PNG?raw=true)
 
 
@@ -22,6 +20,4 @@ minsize=2000 k=10 sigma=1
 
 
 
-
-minsize=2000 k=10 sigma=1
 ![image](https://github.com/ga544523/-graph-segmentation-/blob/master/image%20seg2.PNG?raw=true)
